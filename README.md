@@ -28,7 +28,6 @@ A Python tool that estimates how long it would take to brute-force a given passw
 
 1. Clone the repository:
 
-```bash
 git clone https://github.com/yourusername/password-crack-time-estimator.git
 cd password-crack-time-estimator
 
@@ -38,7 +37,6 @@ cd password-crack-time-estimator
 
 ▶️ Usage
 Run the script with:
-```bash
 python password_crack_time_estimator.py
 
 Enter your password when prompted:
