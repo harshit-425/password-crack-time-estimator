@@ -26,11 +26,15 @@ A Python tool that estimates how long it would take to brute-force a given passw
 
 ## 📦 Installation
 
-Clone the repository:
+1. Clone the repository:
 
 ```bash
 git clone https://github.com/yourusername/password-crack-time-estimator.git
 cd password-crack-time-estimator
+
+2. Ensure you have Python 3 installed.
+
+3. (Optional): Create a virtual environment and install any desired dependencies (this script uses only the standard library).
 
 ▶️ Usage
 Run the script with:
