@@ -38,7 +38,7 @@ Run the script with:
 python password_crack_time_estimator.py
 
 Enter your password when prompted:
-```pgsql
+
 Enter your password: S3cur3!Passw0rd
 Estimated time to brute-force/crack your password: 5.32 billion years
 
@@ -65,7 +65,10 @@ Pull requests and feature ideas are welcome!
 🌐 Author
 Harshit Agrawal
 
+## 🌐 Connect with Me
+
 [💼 LinkedIn](https://www.linkedin.com/in/harshit-agrawal425/)  
 [🛡️ TryHackMe](https://tryhackme.com/p/harshit.agrawal425)
+
 
 Made with Python and a passion for cybersecurity.
