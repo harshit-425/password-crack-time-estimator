@@ -30,7 +30,7 @@ Perfect for understanding password strength and learning how attackers might app
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/yourusername/password-crack-time-estimator.git
+   git clone https://github.com/harshit-425/password-crack-time-estimator.git
    cd password-crack-time-estimator
    ```
 
